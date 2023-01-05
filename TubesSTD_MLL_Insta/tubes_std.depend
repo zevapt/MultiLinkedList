@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671721532 source:c:\users\zeva\desktop\tubes_std\main.cpp
+	"insta.h"
+
+1671721523 source:c:\users\zeva\desktop\tubes_std\insta.cpp
+	"insta.h"
+
+1671720866 c:\users\zeva\desktop\tubes_std\insta.h
+	<iostream>
+	<conio.h>
+
